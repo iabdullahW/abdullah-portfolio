@@ -179,8 +179,8 @@ export const projects: ProjectType[] = [
   {
     name: "developer-portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/iabdullahW/abdullah-portfolio",
+    link: "https://abdullahw-portfolio.vercel.app/",
   },
   {
     name: "Vantage CRM",
@@ -214,8 +214,8 @@ export const seoData: SEODataType = {
   title: "Muhammad Abdullah",
   description: greetings.description,
   author: "Muhammad Abdullah",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image: "https://avatars.githubusercontent.com/u/160312962?v=4",
+  url: "https://abdullahw-portfolio.vercel.app/",
   keywords: [
     "Muhammad Abdullah",
   "Abdullah Portfolio",
