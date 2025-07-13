@@ -214,7 +214,8 @@ export const seoData: SEODataType = {
   title: "Muhammad Abdullah",
   description: greetings.description,
   author: "Muhammad Abdullah",
-  image: "https://avatars.githubusercontent.com/u/160312962?v=4",
+  // image: "https://avatars.githubusercontent.com/u/160312962?v=4",
+    image: "https://raw.githubusercontent.com/iabdullahW/abdullah-portfolio/refs/heads/main/public/img/icons/common/abdullah.jpeg",  //random image URL
   url: "https://abdullahw-portfolio.vercel.app/",
   keywords: [
     "Muhammad Abdullah",
