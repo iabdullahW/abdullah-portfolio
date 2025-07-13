@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/1abdullahW/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/iabdullahW/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+<a href="https://github.com/1abdullahW/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/iabdullahW/abdullah-portfolio"></a><a href="https://github.com/iabdullahW/abdullah-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/iabdullahW/abdullah-portfolio"></a><a href="https://github.com/iabdullahW/abdullah-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/iabdullahW/abdullah-portfolio"></a> <a href="https://github.com/iabdullahW/abdullah-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/iabdullahW/abdullah-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
@@ -9,15 +9,15 @@
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+## To view a live example, **[click here](https://abdullahw-portfolio.vercel.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
 But if you want to **contribute** and make this much better for other developers have a look at
-[Issues](https://github.com/1hanzla100/developer-portfolio/issues).
+[Issues](https://github.com/iabdullahW/abdullah-portfolio/issues).
 
 If you created something awesome and want to contribute then feel free to open an
-[pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
+[pull request](https://github.com/iabdullahW/abdullah-portfolio/pulls).
 
 ## Sections
 
@@ -106,7 +106,7 @@ Iconify Icons are used in the skill section. You can find all the icons here: [I
 ## For the Future
 
 If you can help us with these. Please don't hesitate to open a
-[pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
+[pull request](https://github.com/iabdullahW/abdullah-portfolio/pulls).
 
 - Enable Dark Mode
 
@@ -116,7 +116,7 @@ If you can help us with these. Please don't hesitate to open a
 
 Give a ⭐️ if this project helped you! You can buy me a coffee if you'd like to support my work further.
 <div>
-  <a href="https://www.buymeacoffee.com/1hanzla100"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1hanzla100&button_colour=FFDD00&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://buymeacoffee.com/iabdullah"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=iabdullah&button_colour=FFDD00&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
  </div>
 
 ## Author
