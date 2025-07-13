@@ -125,4 +125,4 @@ Give a ⭐️ if this project helped you! You can buy me a coffee if you'd like 
 
 - Website: https://iabdullahwfolio.vercel.app/
 - Github: [@iabdullahW](https://github.com/iabdullahW)
-- LinkedIn: [@iabdullahW](https://www.linkedin.com/in/i-abdullah/)
+- LinkedIn: [@i-abdullahW](https://www.linkedin.com/in/i-abdullah/)
